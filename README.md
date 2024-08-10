@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me ---
 - 😄 Pronouns: oji
-- ⚡ Fun fact: 😜😜😜😜
+- ⚡ Fun fact: anak rajin 😜😜😜😜
 
 <!---
 muhammadfauzi440/muhammadfauzi440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
