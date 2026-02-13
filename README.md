@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://github.com/muhammadfauzi440"><img src="https://streak-stats.demolab.com?user=muhammadfauzi440&theme=gotham&hide_border=true&&background=EB545400&date_format=j%20M%5B%20Y%5D&locale=id&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://github.com/muhammadfauzi440"><img src="https://streak-stats.demolab.com?user=muhammadfauzi440&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=id&mode=weekly" alt="GitHub Streak" /></a>
 
 </div
   
