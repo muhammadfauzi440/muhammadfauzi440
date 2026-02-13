@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://github.com/muhammadfauzi440">
-      <img src="https://streak-stats.demolab.com?user=muhammadfauzi440&theme=gotham&hide_border=true&locale=id&mode=weekly alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=muhammadfauzi440&theme=gotham&hide_border=true alt="GitHub Streak" />
     </a>
 </p>
   
