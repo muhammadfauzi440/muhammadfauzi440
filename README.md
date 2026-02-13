@@ -2,9 +2,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/muhammadfauzi440">
-      <img src="https://streak-stats.demolab.com?user=muhammadfauzi440&theme=ocean_dark&hide_border=false&background=" alt="GitHub Streak" />
-    </a>
+   [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadfauzi440&theme=elegant&hide_border=true&border_radius=5&locale=id&mode=weekly)](https://git.io/streak-stats)
   </p>
   
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
