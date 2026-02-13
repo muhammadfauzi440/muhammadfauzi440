@@ -11,10 +11,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
 ### 📈 My GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadfauzi440&show_icons=true&theme=radical&rank_icon=github" alt="Fauzi Stats" />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfauzi440&layout=compact&theme=radical" alt="Fauzi Languages" />
-</div>
+[![muhammadfauzi440's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadfauzi440)](https://github.com/anuraghazra/github-readme-stats)
