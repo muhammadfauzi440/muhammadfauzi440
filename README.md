@@ -1,10 +1,10 @@
 <div align="center">
 
-  ### GitHub Statistics & Frameworks
+### My GitHub Stats
+![Fauzi's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadfauzi440&show_icons=true&theme=radical)
 
-  ![Fauzi's Stats](https://github-readme-stats.vercel.app/api?username=muhammadfauzi440&show_icons=true&theme=transparent)
-  <br>
-
+### Top Languages
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadfauzi440&layout=compact&theme=radical)
   ### Frameworks & Tech Stack
   
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
