@@ -12,3 +12,6 @@
 
 ### My GitHub Stats
 ![Fauzi's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadfauzi440&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadfauzi440&layout=compact&theme=radical)
