@@ -2,9 +2,8 @@
 
 ### 
 
--  Saya sedang mengerjakan proyek **Laravel 12** untuk sistem manajemen instansi.
--  Saya sedang mendalami **Cybersecurity Engineering** dan **UI/UX Design**.
--  Fun fact: Saya percaya bahwa kode yang baik adalah kode yang aman dan fungsional.
+-  Saya sedang mengerjakan proyek menggunakan **Laravel 12**.
+-  Saya sedang mendalami **Cybersecurity** dan **UI/UX Design**.
 
 ### 🛠 Tech Stack
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
