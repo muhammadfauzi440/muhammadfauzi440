@@ -1,11 +1,5 @@
 <div align="center">
 
-### My GitHub Stats
-![Fauzi's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadfauzi440&show_icons=true&theme=tokyonight)
-
-### Top Languages
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadfauzi440&layout=compact&theme=tokyonight)
-  ### Frameworks & Tech Stack
 
 <div align="center">
 <a href="https://github.com/muhammadfauzi440"><img src="https://streak-stats.demolab.com?user=muhammadfauzi440&theme=github-dark-blue&hide_border=true&&background=EB545400&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
