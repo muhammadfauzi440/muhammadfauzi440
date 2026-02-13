@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
 <div class="flex">
+  
 ### My GitHub Stats
 ![Fauzi's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadfauzi440&show_icons=true&theme=radical)
 
