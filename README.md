@@ -11,4 +11,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
 ### My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadfauzi440)](https://github.com/muhammadfauzi440/github-readme-stats)
+![Fauzi's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadfauzi440&show_icons=true&theme=radical)
