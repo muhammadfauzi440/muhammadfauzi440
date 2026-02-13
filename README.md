@@ -2,10 +2,8 @@
 
   ### GitHub Statistics & Frameworks
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadfauzi440&show_icons=true&theme=blyth&hide_border=false&rank_icon=github&count_private=true" alt="Fauzi Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfauzi440&layout=compact&theme=blyth&hide_border=false" alt="Top Languages" />
-
-  <br><br>
+  ![Fauzi's Stats](https://github-readme-stats.vercel.app/api?username=muhammadfauzi440&show_icons=true&theme=transparent)
+  <br>
 
   ### Frameworks & Tech Stack
   
