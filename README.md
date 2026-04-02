@@ -12,6 +12,6 @@
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%58C4DC.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%4199FD.svg?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
